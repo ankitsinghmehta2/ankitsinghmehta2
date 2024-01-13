@@ -1,10 +1,7 @@
 ![logo](https://github.com/ankitsinghmehta2/ankitsinghmehta2/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Ankit Mehta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
 <img align="right" alter"loding" width='400' src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsinghmehta2&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsinghmehta2" /> </p>
 
 - 🌱 I’m currently learning **React Courses**
